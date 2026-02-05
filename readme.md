@@ -27,9 +27,11 @@
 
 ## 🎯 Descripción
 
-Bienvenido al repositorio del módulo de **Desarrollo Web** de la Técnica Laboral. Aquí encontrarás todas las actividades realizadas durante el curso, junto con bases y plantillas que te ayudarán si necesitas ponerte al día.
+Bienvenidos al repositorio del módulo de **Desarrollo Web** de la Técnica Laboral. Aquí Subire las actividades que realicemos durante el curso, junto con bases y plantillas en caso necesites ponerte al día.
 
-> 💡 *Este repositorio está diseñado para que puedas aprender, practicar y tener referencias claras de cada proyecto.*
+Incluso en algunas secciones añadire consejos y apuntes que pueden ayudar a afinar conceptos
+
+> 💡 *Este repositorio está diseñado para que todos podamos aprender, practicar y tener referencias claras de cada proyecto.*
 
 ---
 
@@ -69,13 +71,13 @@ Bienvenido al repositorio del módulo de **Desarrollo Web** de la Técnica Labor
 
 ## 🧩 Extensiones de VS Code
 
-Para una mejor experiencia de desarrollo, instala estas extensiones:
+Para una mejor experiencia de desarrollo, usamos estas extensiones:
 
 | Extensión | Descripción |
 |:----------|:------------|
 | 🏷️ **Auto Close Tag** | Cierra automáticamente las etiquetas HTML |
-| ⚡ **Bootstrap 5 Quick Snippets** | Snippets rápidos para Bootstrap 5 |
-| 🎨 **Color Highlight** | Muestra los colores en el código |
+| ⚡ **Bootstrap 5 Quick Snippets** | Snippets rápidos para desarrollo con Bootstrap 5 |
+| 🎨 **Color Highlight** | Muestra los colores en el código, aparte de una paleta cromatica para adaptarlos a necesidades |
 | 🔴 **Live Server** | Servidor local con recarga automática |
 | ✨ **Prettier** | Formateador de código |
 | 📁 **vscode-icons** | Iconos para archivos y carpetas |
