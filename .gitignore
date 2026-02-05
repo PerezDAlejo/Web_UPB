@@ -1,0 +1,38 @@
+# ============================================
+# GITIGNORE - Web_UPB
+# ============================================
+# Este archivo indica a Git qué archivos NO subir al repositorio
+# Así protegemos nuestro trabajo personalizado pero compartimos
+# las plantillas base para que otros puedan aprender
+
+# ============================================
+# PROYECTO 02 - E-Commerce
+# ============================================
+# Ignorar el index.html personalizado (contiene mi trabajo)
+proyecto02(Prototipo_basico)/index.html
+
+# Ignorar todas las imágenes (son personalizadas)
+proyecto02(Prototipo_basico)/img/Imagenes_hero/*
+proyecto02(Prototipo_basico)/img/Imagenes_productos/*
+
+# PERO mantener los .gitkeep para preservar la estructura de carpetas
+!proyecto02(Prototipo_basico)/img/Imagenes_hero/.gitkeep
+!proyecto02(Prototipo_basico)/img/Imagenes_productos/.gitkeep
+
+# ============================================
+# ARCHIVOS DEL SISTEMA
+# ============================================
+# Ignorar archivos .DS_Store de macOS
+.DS_Store
+*/.DS_Store
+
+# Ignorar archivos de Windows
+Thumbs.db
+
+# ============================================
+# EDITORES / IDEs
+# ============================================
+.vscode/
+*.swp
+*.swo
+
