@@ -12,12 +12,15 @@
 proyecto02(Prototipo_basico)/index.html
 
 # Ignorar todas las imágenes (son personalizadas)
+proyecto02(Prototipo_basico)/img/*
 proyecto02(Prototipo_basico)/img/Imagenes_hero/*
 proyecto02(Prototipo_basico)/img/Imagenes_productos/*
 
 # PERO mantener los .gitkeep para preservar la estructura de carpetas
 !proyecto02(Prototipo_basico)/img/Imagenes_hero/.gitkeep
 !proyecto02(Prototipo_basico)/img/Imagenes_productos/.gitkeep
+!proyecto02(Prototipo_basico)/img/Imagenes_hero/
+!proyecto02(Prototipo_basico)/img/Imagenes_productos/
 
 # ============================================
 # ARCHIVOS DEL SISTEMA
